@@ -1,4 +1,4 @@
-<strong>Sistema de Listagem de Livros</strong><br>
+<b>Sistema de Listagem de Livros</b><br>
 Este é um sistema simples em Python para gerenciar uma lista de livros. O programa permite ao usuário adicionar, consultar, remover e listar livros, armazenando as informações em um dicionário.
 
 <strong>Funcionalidades:</strong><br>
