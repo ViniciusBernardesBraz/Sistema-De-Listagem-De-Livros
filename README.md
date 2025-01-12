@@ -11,9 +11,9 @@ Clone este repositório.
 Execute o arquivo Sistema-De-Listagem-De-Livros.py no Python.
 Interaja com o menu para adicionar, consultar ou remover livros.
 
-Exemplo de uso:
-1 - Adicionar Livro
-2 - Consultar Livro
-3 - Remover Livro
-4 - Exibir Todos Os Livros
-5 - Sair
+Exemplo de uso: <br>
+1 - Adicionar Livro<br>
+2 - Consultar Livro<br>
+3 - Remover Livro<br>
+4 - Exibir Todos Os Livros<br>
+5 - Sair<br>
